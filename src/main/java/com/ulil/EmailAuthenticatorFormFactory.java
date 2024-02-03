@@ -1,4 +1,4 @@
-package com.mibrahimuadev;
+package com.ulil;
 
 import com.google.auto.service.AutoService;
 import org.keycloak.Config;

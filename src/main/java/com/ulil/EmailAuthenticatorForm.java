@@ -1,4 +1,4 @@
-package com.mibrahimuadev;
+package com.ulil;
 
 import jakarta.ws.rs.core.MultivaluedMap;
 import jakarta.ws.rs.core.Response;
